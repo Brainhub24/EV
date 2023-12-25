@@ -1,4 +1,6 @@
 ## Soon...
+> [!NOTE]
+> This is a useful powershell program that can manage your windows energy settings.
 ```
   _____ _                        _  __     ___       _ _             _
  | ____| |_ ___ _ __ _ __   __ _| | \ \   / (_) __ _(_) | __ _ _ __ | |_
@@ -11,11 +13,14 @@ Elapsed Time: 01:36:05
 
 Script stopped...
 ```
-
-> [!NOTE]
-> This is a useful powershell program that can manage your windows energy settings.
-
-
+```
+PS C:\Users\lab\Documents\GitHub\Worker_Control> .\DEV-TEST_Eternal_Vigilant.ps1 -r
+Power settings reset with custom values.
+Monitor Timeout AC: 15
+Standby Timeout AC: 30
+Monitor Timeout DC: 10
+Standby Timeout DC: 20
+```
 ```
 Usage: .\Eternal_Vigilant.ps1 [-t time] [-r] [-s] [-e] [-h] [-v]
 Flags:
