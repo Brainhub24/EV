@@ -1,8 +1,8 @@
 ## Soon...
 > [!NOTE]
-> I´ll soon upload the first initial release..
-> About this tool:
-> This is a useful powershell program that can manage your windows energy settings.
+> I´ll soon upload the first initial release..<br><br>
+> About this tool:<br>
+> This is a useful powershell program that can manage your windows energy settings.<br>
 > For some IT'lers, developers etc. this tool could be very useful.
 ```
   _____ _                        _  __     ___       _ _             _
