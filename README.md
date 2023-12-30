@@ -1,6 +1,9 @@
 ## Soon...
 > [!NOTE]
+> I´ll soon upload the first initial release..
+> About this tool:
 > This is a useful powershell program that can manage your windows energy settings.
+> For some IT'lers, developers etc. this tool could be very useful.
 ```
   _____ _                        _  __     ___       _ _             _
  | ____| |_ ___ _ __ _ __   __ _| | \ \   / (_) __ _(_) | __ _ _ __ | |_
